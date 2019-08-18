@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[36],{452:function(t,n,e){"use strict";e.r(n);var o={mounted:function(){this.$router.push("/works/campaign/"+this.$store.state.works.campaign.total_campaigns)}},r=e(16),component=Object(r.a)(o,function(){var t=this.$createElement;return(this._self._c||t)("div")},[],!1,null,null,null);n.default=component.exports}}]);

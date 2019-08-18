@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[43],{455:function(t,e,o){"use strict";o.r(e);var n={mounted:function(){this.$router.push("/works/video/"+this.$store.state.works.video.total_videos)}},r=o(16),component=Object(r.a)(n,function(){var t=this.$createElement;return(this._self._c||t)("div")},[],!1,null,null,null);e.default=component.exports}}]);
