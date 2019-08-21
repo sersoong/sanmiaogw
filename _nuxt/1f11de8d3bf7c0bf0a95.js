@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[28],{444:function(t,e,n){"use strict";n.r(e);var o={mounted:function(){this.$router.push("/store/image")}},r=n(16),component=Object(r.a)(o,function(){var t=this.$createElement;return(this._self._c||t)("div")},[],!1,null,null,null);e.default=component.exports}}]);

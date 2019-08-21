@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[39],{427:function(t,o,n){"use strict";n.r(o);var e={mounted:function(){this.$router.push("/works/collocation/"+this.$store.state.works.collocation.total_collocation)}},l=n(16),component=Object(l.a)(e,function(){var t=this.$createElement;return(this._self._c||t)("div")},[],!1,null,null,null);o.default=component.exports}}]);
